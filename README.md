@@ -3,10 +3,10 @@
   
 # PHP
   Está hecha a base de PHP 7 puro (sin framework) y diferentes librerías open source como:
-    ´bootstrap´
-    ´perfectScrollBar´
-    ´noUiSlider´
-    ´tether.js´ entre otros...
+    `bootstrap`
+    `perfectScrollBar`
+    `noUiSlider`
+    `tether.js` entre otros...
     
 # Creadores
   Como partida, Twins comenzo como un proyecto para el instituto, pero conforme avanzaba, nosotros le vimos mas futuro... por eso,
