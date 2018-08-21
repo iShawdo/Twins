@@ -1,5 +1,5 @@
 # Twins
-  Es una red social open source para encontrar pareja o hacer amigos.
+Es una red social open source para encontrar pareja o hacer amigos.
   
 # PHP
   Está hecha a base de PHP 7 puro (sin framework) y diferentes librerías open source como:
